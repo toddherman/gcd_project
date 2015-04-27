@@ -1,7 +1,9 @@
 Code Book
 
 Variables
+	
 	subject - this is number identifying the subject
+	
 	activity - the activity numbers have been converted to the descriptive activity names
 	
 	Each of the following variables is the average for each activity and each subject
