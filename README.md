@@ -5,7 +5,7 @@ Confirm that the Samsung data is in your working directory.
 It can be downloaded here:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 Full description here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-Run the file run_analysis.R.
+Run the file run_analysis.R in this repository.
 
 The script will
 #1 Merge the training and the test sets to create one data set.
