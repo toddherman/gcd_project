@@ -1,6 +1,6 @@
-Code Book
+#Code Book
 
-Variables
+##Variables
 	
 	subject - this is number identifying the subject
 	
@@ -95,7 +95,7 @@ Variables
 	fBodyBodyGyroJerkMag-std()"
 
 ==========
-Data
+##Data
 
 The data set can be download here
 Source and more information: 
@@ -103,9 +103,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-1. Transformations performed to clean up the data
-2. Training and test sets are merged to create one data set.
-3. Number of variables (columns) are reduced.  Only the measurements on the mean and standard deviation are used. 
-4. Descriptive activity names from actvity_labels.txt replace activity ID in original data set.
-5. Descriptive variable names added as above. 
-6. A second, independent tidy data set called merged_test_train_grouped_mean.txt is created.  It groups all records by subject then activity and calculates the mean of each.
+## Transformations performed to clean up the data
+1. Training and test sets are merged to create one data set.
+2. Number of variables (columns) are reduced.  Only the measurements on the mean and standard deviation are used. 
+3. Descriptive activity names from actvity_labels.txt replace activity ID in original data set.
+4. Descriptive variable names added as above. 
+5. A second, independent tidy data set called merged_test_train_grouped_mean.txt is created.  It groups all records by subject then activity and calculates the mean of each.
